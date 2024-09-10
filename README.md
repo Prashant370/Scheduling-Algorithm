@@ -21,9 +21,15 @@ This project implements three popular process scheduling algorithms: FCFS (First
 - **input.txt**: Contains process data, including process name, arrival time, execution time, CPU burst time, I/O time, and priority.
 - **output.txt**: Outputs the results for each scheduling algorithm, including Turnaround Time, Waiting Time, and Average Turnaround Time.
 - **Graphs**: Data generated for graphing Quantum Time vs Average Turnaround Time and Quantum Time vs Average Waiting Time.
-
 ## How to Run
 
 1. Compile the program:
    ```bash
    g++ -o scheduling scheduling.cpp
+
+   
+## Input Looks Like
+![image](https://github.com/user-attachments/assets/ed0ad744-d490-443e-b8c9-ddd7dbadad5b)
+
+## Output Looks Like 
+![image](https://github.com/user-attachments/assets/81051b04-2873-4338-8488-e63083aeca0f)
